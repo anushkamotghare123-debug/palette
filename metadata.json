@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Palette - The Artist's Hub",
+  "description": "A comprehensive marketplace for artists to showcase and sell artwork, manage commissions, and for collectors to discover unique pieces. Includes AI-powered discovery and description generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
